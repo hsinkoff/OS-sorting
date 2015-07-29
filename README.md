@@ -2,11 +2,11 @@
 
 Assumptions Made for character-count
 
-  -ASCII code points
+    -ASCII code points
 
-  -Single byte character encoding
+    -Single byte character encoding
 
 
 Open Source Javascript Libraries for sorted-table
 
-  -none
+    -None
