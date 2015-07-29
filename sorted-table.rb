@@ -44,6 +44,7 @@ function addSortedRow(lastName, firstName, status) {
     request.send("firstName=" + firstName + "&lastName=" + lastName + "&status=" + status);
 }
 
+// examples of using addSortedRow
 addSortedRow("Smith", "Mike", "active");
 addSortedRow("Andrews", "Abe", "retired");
 addSortedRow("Andrews", "Mike", "active");
@@ -51,5 +52,4 @@ addSortedRow("Jones", "Jack", "active");
 addSortedRow("Jones", "Abby", "retired");
 
 </script>
-
 </body>
